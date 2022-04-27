@@ -4,7 +4,7 @@ import turtle
 screen=turtle.Screen()
 trtl=turtle.Turtle()
 screen.setup(620,620)
-screen.title('A Clock dial made by Saksham Aggarwal')
+screen.title('A Clock dial made by Shaurya')
 screen.bgcolor('black')
 clr=['red','green','blue','yellow','purple']
 trtl.pensize(4)
